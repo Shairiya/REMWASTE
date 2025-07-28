@@ -4,3 +4,4 @@ pytest-html
 webdriver-manager
 openpyxl
 pandas
+faker
